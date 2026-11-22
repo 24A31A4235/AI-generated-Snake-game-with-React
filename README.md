@@ -1,5 +1,7 @@
 # 🐍 Snake Game — React + TypeScript
 
+▶ Play it live: https://24A31A4235.github.io/AI-generated-Snake-game-with-React/
+
 A classic Snake game built with React 19, Vite and TypeScript, styled with Tailwind CSS.
 
 ## 🚀 How to Run
