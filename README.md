@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🐍 Snake Game — React + TypeScript
 
-# Run and deploy your AI Studio app
+A classic Snake game built with React 19, Vite and TypeScript, styled with Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## 🚀 How to Run
+**Prerequisites:** Node.js
+```bash
+npm install
+npm run dev
+```
+Open the local address shown in the terminal.
 
-View your app in AI Studio: https://ai.studio/apps/ce1bf579-185c-49f6-9e4d-80cf6062fe9c
+## 🎮 How to Play
+- Steer the snake with the arrow keys.
+- Eat the food to grow and score points.
+- Don't hit the walls or your own tail.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+- React 19 + TypeScript
+- Vite
+- Tailwind CSS
